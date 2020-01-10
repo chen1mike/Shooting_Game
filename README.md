@@ -27,4 +27,4 @@ a_up,a_down,a_left,a_right,b_up,b_down,b_left,b_right -> 接到8 DIPSW<br/>
 R_color,G_color, B_color,column -> 接到8x8 LED 矩陣<br/>
 a_life,b_life -> 接到LED 陣列<br/>
 ## Demo video:
-![Demo video](https://drive.google.com/drive/u/0/folders/19mFnbH4ZPA-VfSv1K0sdk0MGnkvPGEr0)<br/>
+[![Watch the video](https://user-images.githubusercontent.com/38218129/72135004-676aa080-33c0-11ea-8d8a-78c971f38bd7.png)](https://drive.google.com/drive/u/0/folders/19mFnbH4ZPA-VfSv1K0sdk0MGnkvPGEr0)
