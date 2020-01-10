@@ -2,7 +2,7 @@
 ## Authors:107321058, 106407023
 ## Input/Output Unit
 。8x8 LED 矩陣，用來顯示對戰畫面。下圖為按下 clear 的初始畫面。<br/>
-https://user-images.githubusercontent.com/38218129/72134911-283c4f80-33c0-11ea-8870-3dc2a66fd1e3.png<br/>
+[![image8x8](https://user-images.githubusercontent.com/38218129/72134911-283c4f80-33c0-11ea-8870-3dc2a66fd1e3.png)]<br/>
 。LED 陣列，用來計玩家血量(左四事紅色玩家的，右四是綠色玩家的)。<br/>
 https://user-images.githubusercontent.com/38218129/72135004-676aa080-33c0-11ea-8d8a-78c971f38bd7.png<br/>
 ## 功能說明:
